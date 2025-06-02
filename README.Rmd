@@ -73,9 +73,9 @@ R ≥ 4.0.0
 Pacotes: stringr, jsonlite, purrr, dplyr, janitor
 👤 Autor
 
-Desenvolvido por Baruque Rodrigues
-📫 Contato: Quemuel.baruque@ufpe.br
-🔗 GitHub: github.com/BaruqueRodrigues
+Desenvolvido por Quesia Silva
+📫 Contato: quesia.brito@ufpe.br
+🔗 GitHub: github.com/Quesiaabs
 
 📄 Licença
 
